@@ -1,0 +1,44 @@
+﻿body
+{
+	
+}
+.menubar
+{
+	text-align:center;
+	color:Yellow;
+	font-size:13px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+}
+td
+{
+	width:13%;
+	height:30px;
+}
+td:hover
+{
+	background-color:#FFFF99;
+}
+.tablecontent
+{
+text-decoration:none;
+
+}
+.header {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: #FFF;
+	text-decoration: none;
+	height: 112px;
+	background-image: url(../images/bgtable.jpg);
+	background-repeat: repeat;
+		 -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -khtml-border-radius: 10px;
+    border-radius: 10px;
+}
+div
+{
+position:absolute;
+}
